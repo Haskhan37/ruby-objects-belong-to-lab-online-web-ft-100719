@@ -1,2 +1,4 @@
 Class Post 
-attr_accessor : name, 
+attr_accessor : title, author 
+end
+
